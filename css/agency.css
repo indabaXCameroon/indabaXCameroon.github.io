@@ -172,7 +172,7 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  background-image: url(../img/header-bg.jpg);
+  background-image: url("https://www.journalducameroun.com/en/wp-content/uploads/2017/04/Yaounde-Cameroon.jpg");
   color: white;
   background-repeat: no-repeat;
   background-attachment: scroll;
